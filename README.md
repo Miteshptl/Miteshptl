@@ -12,7 +12,7 @@ I'm a Full Stack Developer in the making, a tech geek 🧑‍💻, and a car ent
 
 - 💻 **Languages**: Python (my trusty sidekick), JavaScript (we're making progress), HTML/CSS (still trying to look good)
 - 🛠️ **Backend**: Django (full power mode)
-- ⚙️ **Frontend**: React (it’s a love-hate relationship), HTML/CSS (still prettier than my code)
+- ⚙️ **Frontend**: HTML/CSS (still prettier than my code)
 - 🖥️ **Databases**: MYSQL (let’s make it work)
 - 🌐 **Tools**: Git, GitHub, VS Code (I promise I know how to use it... most of the time)
 
