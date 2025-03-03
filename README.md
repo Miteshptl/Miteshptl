@@ -30,6 +30,8 @@ I'm a Full Stack Developer in the making, a tech geek 🧑‍💻, and a car ent
 - 📱 WhatsApp: [Click to chat!](https://wa.me/9391194085) 
 
 ## 👨‍💻 GitHub Stats
-![Mitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miteshptl&show_icons=true&hide_title=true)
+ ![Mitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miteshptl&show_icons=true&hide_title=true)
+ 
+ ![Mitesh's Most Language Used](https://github-readme-stats.vercel.app/api/top-langs?username=Miteshptl&show_icons=true&locale=en&layout=compact)
 
 > "There are only two hard things in computer science: cache invalidation and naming things." – Anonymous (but probably me, after a few cups of coffee)
